@@ -18,3 +18,6 @@
 *(La carte des clusters LISA sera ajoutée ici prochainement)*
 
 <!-- À faire plus tard : Remplacer le texte au-dessus par : ![Carte des inégalités](nom_de_l_image.png) -->
+
+## 📄 Rapport complet
+Ce dépôt contient le script R Markdown détaillé de l'analyse. Pour une lecture directe des résultats (concept géospatiaux, explication des packages et cartographies), le document final généré est disponible ici : **[rapport_complet_projet_amandine_ange.pdf](rapport_complet_projet_amandine_ange.pdf)**.
